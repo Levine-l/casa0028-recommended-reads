@@ -13,4 +13,5 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: '/casa0028-recommended-reads/'
+  homepage:'https://Levine-l.github.io/casa0028-recommended-reads/'
 })
